@@ -1,15 +1,19 @@
-#id {
-  color: green;
+h2 {
+  color: red;
 }
 
 .title {
   color: red;
 }
 
+#contact-us {
+  color: green;
+}
+
 .subtitle {
   color: blue;
 }
 
-#contact-us {
+#services {
   color: green;
 }
